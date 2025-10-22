@@ -67,7 +67,7 @@ Out of Light is a first-person horror game developed in Unity. The game follows 
 
 ## See It In Action
 
-https://github.com/user-attachments/assets/d8a141b8-9c2d-46e4-91a9-c7617970f28e
+https://github.com/user-attachments/assets/6fe3943d-7814-4ade-b4a3-146c4ddd23e1
 
 <p align="center">Watch the gameplay video</p>
 
